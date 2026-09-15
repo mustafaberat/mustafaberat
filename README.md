@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,go,js,nodejs,python,mysql,postgres,mongodb,redis,kafka,elasticsearch,docker,kubernetes,aws,gcp" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=git,go,js,nodejs,python,postgres,mongodb,redis,kafka,rabbitmq,elasticsearch,docker,kubernetes,aws" alt="skills" />
 </a>
 
 <p>
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://mustafaberat.vercel.app">
-    <img src="./assets/m-logo.png" alt="Mustafa Berat" height="28" />
+    <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
   </a>
 </p>
 
