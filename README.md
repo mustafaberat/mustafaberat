@@ -1,9 +1,27 @@
 ## Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafaberat&layout=compact&langs_count=20&bg_color=181818&card_width=400&border_color=dedede&text_color=efefef"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,go,java,spring,js,nodejs,python,mysql,postgres,mongodb,redis,docker,kubernetes,linux,aws,gcp" alt="skills" />
+  </a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mustafaberat/mustafaberat/output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mustafaberat/mustafaberat/output/breakout-contribution-graph.svg">
-  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/mustafaberat/mustafaberat/output/breakout-contribution-graph.svg">
-</picture>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mustafaberataru">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mustafa.berat.aru@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://mustafaberat.vercel.app">
+    <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mustafaberat/mustafaberat/output/breakout-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mustafaberat/mustafaberat/output/breakout-contribution-graph.svg">
+    <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/mustafaberat/mustafaberat/output/breakout-contribution-graph.svg">
+  </picture>
+</p>
