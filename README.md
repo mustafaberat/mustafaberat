@@ -6,7 +6,7 @@
   <img src="https://skillicons.dev/icons?i=git,go,cs,js,python,postgres,mongodb,redis,kafka,rabbitmq,elasticsearch,docker,kubernetes,aws" alt="skills" />
 </a>
 
-<br><br>
+<br>
 
 <p>
   <a href="https://www.linkedin.com/in/mustafaberataru">
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<br><br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mustafaberat/mustafaberat/output/breakout-contribution-graph-dark.svg">
