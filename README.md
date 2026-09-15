@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,go,js,nodejs,python,postgres,mongodb,redis,kafka,rabbitmq,elasticsearch,docker,kubernetes,aws" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=git,go,cs,nodejs,python,postgres,mongodb,redis,kafka,rabbitmq,elasticsearch,docker,kubernetes,aws" alt="skills" />
 </a>
 
 <p>
